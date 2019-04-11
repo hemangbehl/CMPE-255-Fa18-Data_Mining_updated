@@ -1,0 +1,8 @@
+Activity-data-3 : transform docs into CSR matrix, cos sim
+Activity-nn-1: Approximate Nearest Neighbors using LSH, has functions in lsh.py
+		-->  clsh, jlsh, generateSamples, findNeighborsBrute, recall
+
+
+
+
+
